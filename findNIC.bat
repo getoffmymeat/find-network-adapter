@@ -1,5 +1,5 @@
 @echo off
-:: made by @1kinte 
+:: made by @1kinte on discord
 title network adapter tool
 setlocal enabledelayedexpansion
 
